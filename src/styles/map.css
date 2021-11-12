@@ -1,0 +1,25 @@
+.Map {
+    text-align: center;
+  }
+  
+  .Map > div{
+    height: 94vh !important;
+  }
+  
+  rect{
+    height: 65px;
+  }
+  
+  .Map > div> p{
+    font-size: 17px;
+    font-weight: bold;
+  }
+
+  .Map > div> svg > g> text {
+    font-size: 15px;
+  }
+
+  .Map > div> svg > g.Tooltip {
+    transform-origin: 0 0;
+    transform: translate(0px, 0px);
+  }
