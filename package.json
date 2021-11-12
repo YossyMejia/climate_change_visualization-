@@ -1,5 +1,5 @@
 {
-  "name": "proyecto-final",
+  "name": "climate_change_visualization-",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -23,7 +23,7 @@
     "react-jvectormap": "0.0.16",
     "react-redux": "^7.2.6",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^4.0.3",
     "react-simpler-router": "^0.8.9",
     "react-svg-tooltip": "0.0.11",
     "react-world-countries-map": "^1.1.0",

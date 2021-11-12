@@ -4,9 +4,23 @@ const stylesMapView = makeStyles((theme) => ({
     
     tableUsers: {
         viewBox:"0 -200 1500 1500",
-      },
+    },
 
-    container: {
+    formControl: {
+      marginRight: "0.8rem",
+      marginBottom: '0.8rem',
+      minWidth: 100,
+    },
+
+    formControlCategory: {
+      marginRight: "0.8rem",
+      marginBottom: '0.8rem',
+      width: 350,
+    },
+
+    searchTextField: {
+      marginRight: '0.8rem',
+      marginBottom: '0.8rem',
     },
 
 }));

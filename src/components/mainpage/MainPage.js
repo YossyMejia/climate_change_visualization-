@@ -15,7 +15,7 @@ import MenuItems from "./MenuItems";
 import stylesMainPage from "../../styles/mainPageStyles";
 import { useState, useEffect} from "react";
 import { Route } from "react-router-dom";
-import MapComponent from '../map/WorldMap.js'
+import MapComponent from '../map/PrincipalMap'
 import {useHistory} from "react-router-dom";
 
 export default function MainPage() {
