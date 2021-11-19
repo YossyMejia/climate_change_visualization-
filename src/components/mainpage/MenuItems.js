@@ -7,10 +7,12 @@ import stylesMainPage from "../../styles/mainPageStyles";
 // Imports de íconos
 import Language from '@material-ui/icons/Language';           // Mapa
 import Map from '@material-ui/icons/Map';                     // Arbol
+import Radar from '@material-ui/icons/Radio';                     // Arbol
 
 //views name used to be compared with the actual selected view
 const userAdmin = "Mapa mundial";
 const extUserAdmin = "Arbol";
+const radar = "Radar";
 
 // Componente que contiene todos los items del menú de opciones de administrador
 const MenuItems = ({setView, selection}) => {
@@ -35,6 +37,15 @@ const MenuItems = ({setView, selection}) => {
       </ListItemIcon>
       <ListItemText primary="Arbol" />
     </ListItem>
+
+  <ListItem button 
+    onClick={() => {setView(["Radar","/tree"]); }}>
+    <ListItemIcon>
+      {selection === radar ? <Radar className={classes.buttonClicked}/> 
+      : <Radar />}
+    </ListItemIcon>
+    <ListItemText primary="Radar" />
+  </ListItem>
 
     {/*
     <ListItem button 

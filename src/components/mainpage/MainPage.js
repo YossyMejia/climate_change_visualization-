@@ -97,7 +97,8 @@ export default function MainPage() {
       <main className={classes.content}>
         <div className={classes.appBarSpacer} />
         <Container maxWidth="lg" className={classes.container}> 
-            <Route exact path="/view/map" component={MapComponent}></Route> 
+            {/* <Route exact path="/view/map" component={MapComponent}></Route>  */}
+            <Route exact path="/view/tree" component={MapComponent}></Route> 
         </Container>
       </main>
     </div>
