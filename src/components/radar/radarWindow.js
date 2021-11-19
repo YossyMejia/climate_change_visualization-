@@ -1,7 +1,7 @@
 import React from "react";
 import { useEffect } from "react";
 import SearchCountry from "./SearchCountry";
-import WorldMap from "./WorldMap";
+import RadarView from "./radarMain";
 //import AddUserButton from "./AddUserButton";
 import Grid from "@material-ui/core/Grid";
 import { useDispatch, useSelector } from "react-redux";
@@ -9,7 +9,7 @@ import {
   //getUsersAction,
 } from "../../redux/mapDuck";
 
-export default function PrincipalMap(){
+export default function PrincipalRadar(){
 
   // Constantes
   const dispatch = useDispatch();
@@ -65,16 +65,7 @@ export default function PrincipalMap(){
           }
         </Grid>
       </Grid>
-      <WorldMap
-        /*rows={users}
-        totalUsers={totalUsers}
-        page={page}
-        rowsPerPage={rowsPerPage}
-        disableUser={disableUser}
-        status={status}
-        rols={allRoles}
-        allStatus = {allStatus}*/
-      />
+      <RadarView />
     </div>
   );
 };
