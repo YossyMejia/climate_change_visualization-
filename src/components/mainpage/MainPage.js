@@ -17,6 +17,7 @@ import { useState, useEffect} from "react";
 import { Route } from "react-router-dom";
 import MapComponent from '../map/PrincipalMap'
 import PrincipalRadar from '../radar/radarWindow'
+import PrincipalLinear from '../linear/linearWindow'
 import {useHistory} from "react-router-dom";
 
 export default function MainPage() {
@@ -99,7 +100,7 @@ export default function MainPage() {
         <div className={classes.appBarSpacer} />
         <Container maxWidth="lg" className={classes.container}> 
             {/* <Route exact path="/view/map" component={MapComponent}></Route>  */}
-            <Route exact path="/view/map" component={PrincipalRadar}></Route> 
+            <Route exact path="/view/map" component={PrincipalLinear}></Route> 
         </Container>
       </main>
     </div>
