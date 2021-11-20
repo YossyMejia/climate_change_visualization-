@@ -55,20 +55,6 @@ const SearchUsers = ({year, category, countryName}) => {
             className={classes.searchTextField}
             onChange={handleSearch}/>  
             
-        <FormControl variant="outlined" className={classes.formControl} size="small">
-            <InputLabel id="demo-simple-select-outlined-label" size="small">Año</InputLabel>
-            <Select
-                labelId="demo-simple-select-outlined-label"
-                id="demo-simple-select-outlined"
-                value={year}
-                onChange={handleRolChange}
-                label="Año">
-                <MenuItem value={"none"}>
-                    <em>Ninguno</em>
-                </MenuItem>
-            </Select>
-        </FormControl>
-
         <FormControl variant="outlined" className={classes.formControlCategory} size="small">
             <InputLabel id="demo-simple-select-outlined-label" size="small">Comparación por región</InputLabel>
             <Select
