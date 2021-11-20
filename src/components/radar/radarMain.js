@@ -2,7 +2,6 @@ import React, {useState, Component} from "react"
 //import "./styles.css";
 import Radar from "react-d3-radar";
 
-var color = d3.scale.ordinal().range(["#EDC951","#CC333F","#00A0B0"]);
 
 const chartData = {
   variables: [
