@@ -1,73 +1,72 @@
-import React, { useState} from 'react'
+import React, { Component, useState} from 'react'
 import TextField from '@material-ui/core/TextField';
 import InputLabel from '@material-ui/core/InputLabel';
 import MenuItem from '@material-ui/core/MenuItem';
 import FormControl from '@material-ui/core/FormControl';
+import LinearView from "./linearMain";
 import Select from '@material-ui/core/Select';
 import stylesMapView from "../../styles/mapStyles";
 import {useDispatch, useSelector} from 'react-redux';
+import dataFileTempPers from '../../json_data/dataFileTempPers.json';
 import {
-    //setStatusAction,
-    //setRolAction,
-    //setSearchUserAction,
-    //searchUserAction
+    setSearchCountryAction,
+    searchDataAction,
 } from '../../redux/mapDuck';
 
 const SearchUsers = ({year, category, countryName}) => {
     const dispatch = useDispatch();
     const classes = stylesMapView();
-    
-    //const currentSearch = useSelector((store) => store.users.search)
+    const currentSearchCountry = useSelector((store) => store.mapInfo.search_country);
 
-    // Cambia el estado de la búsqueda
-    const handleStatusChange = (event) => {
-    //    dispatch(setStatusAction(event.target.value));
-    };
+    const [value, setValue] = useState('');
 
     // Cambia el rol de la búsqueda
-    const handleRolChange = (event) => {
-    //    dispatch(setRolAction(event.target.value));
-    };
-
-    // Cambia el rol de la búsqueda
-    const handleSearch = (event) => {
-    //    dispatch(setSearchUserAction(event.target.value));
+    const handleSearchCountry = (event) => {
+        dispatch(setSearchCountryAction(event.target.value));
     };
 
     function keyPress(event){
-    //    if(event.keyCode === 13){
-    //       dispatch(searchUserAction()); // Realiza la búsqueda 
-    //    }
+        if(event.keyCode === 13){
+           dispatch(searchDataAction()); // Realiza la búsqueda 
+        }
      };
-     
-    
+
+    const uniques = dataFileTempPers.map(item => item.Entity)
+                    .filter((value, index, self) => self.indexOf(value) === index)
+
+
 
     return (
         <div>
-        <TextField 
-            id="outlined-search"
-            label="Buscar" 
-            type="search" 
-            variant="outlined"
-            size="small" 
-            onKeyDown={keyPress}
-            value={countryName}
-            className={classes.searchTextField}
-            onChange={handleSearch}/>  
-            
-        <FormControl variant="outlined" className={classes.formControlCategory} size="small">
-            <InputLabel id="demo-simple-select-outlined-label" size="small">Comparación por región</InputLabel>
+            {/* <FormControl variant="outlined" className={classes.formControlCategory} size="small">
+            <InputLabel id="demo-simple-select-outlined-label" size="small">País</InputLabel>
             <Select
-                labelId="demo-simple-select-outlined-label"
-                id="demo-simple-select-outlined"
-                onChange={handleStatusChange}
-                label="Comparación por región"
-                value={category}>
-                <MenuItem value={"none"}>
-                    <em>Ninguno</em>
-                </MenuItem>
+                labelId="demo-simple-select-label"
+                id="demo-simple-select"
+                value={countryName}
+                label="País"
+                onChange={(e) => setValue(e.target.value)}
+            >
+                {uniques.map((post, index) => {
+                    return(
+                        <MenuItem value={post}>{post}</MenuItem>
+                    );
+                })}
             </Select>
-        </FormControl>
+            </FormControl>
+            
+            <div>
+            <label>{value}</label>
+                {dataFileTempPers.map((post, index) => {
+                    <p>{post.Entity}</p>
+                    if (post.Entity == value)
+                        return <div>
+                                <p>{post.Year}</p>
+                                <p>{post.temperature}</p>
+                                <p>{post.value}</p>
+                            </div>
+                })}
+            </div> */}
         </div>
     )
 }
