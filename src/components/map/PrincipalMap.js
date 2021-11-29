@@ -5,7 +5,7 @@ import WorldMap from "./WorldMap";
 import Grid from "@material-ui/core/Grid";
 import { useDispatch, useSelector } from "react-redux";
 import {
-  getMapData,
+  searchDataAction,
 } from "../../redux/mapDuck";
 
 export default function PrincipalMap(){
@@ -19,7 +19,7 @@ export default function PrincipalMap(){
   const available_categories = useSelector((store) => store.mapInfo.available_categories);
 
   const loadData = () => {
-    dispatch(getMapData(search_year, search_category, search_country)); // Load filter and initial data  
+    dispatch(searchDataAction()); // Load filter and initial data  
   };
 
 

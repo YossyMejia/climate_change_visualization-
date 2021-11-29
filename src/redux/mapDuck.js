@@ -177,7 +177,6 @@ export const getMapData = (year, category, country) => async (dispatch, getState
   const {available_categories} = getState().mapInfo;
   data = getDataByCategory(category, available_categories);
   var new_data = getFullData(data);
-  console.log(getData());
   try {
     dispatch({
       type: GET_MAP_DATA,
