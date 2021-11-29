@@ -32,6 +32,7 @@ const SearchMap = ({year, category, countryName, available_categories}) => {
     // Cambia el rol de la búsqueda
     const handleSearchCountry = (event) => {
         dispatch(setSearchCountryAction(event.target.value));
+        console.log(event.target.value)
     };
 
     function keyPress(event){
