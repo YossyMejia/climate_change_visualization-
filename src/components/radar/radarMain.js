@@ -38,26 +38,26 @@ const chartData = {
         color: "blue", 
         values: {
           tempeture: pais1[0],
-          ghg: pais1[1],
-          co2: pais1[2],           
+          ghg: parseFloat(pais1[1]),
+          co2: parseFloat(pais1[2]),           
         }
       },
       {
         key: {value2},
         label: {value2},
         values: {
-          tempeture: 3,
-          ghg: 5,
-          co2:6,    
+          tempeture: 0.9,
+          ghg: 0.2,
+          co2: 0.4,    
         }
       },
       {
         key: {value3},
         label: {value3},
         values: {
-          tempeture: 4,
-          ghg: 4,
-          co2: 2,    
+          tempeture: 0.5,
+          ghg: 1,
+          co2: .5,    
         }
       }
     ]
@@ -78,6 +78,8 @@ const chartData = {
   // };
 
   // render() {
+
+  
     return (
       
       <div>
@@ -96,7 +98,7 @@ const chartData = {
                     return pais3.push(post.temp, post.GHG, post.CO2)
             })}
         </div>
-        <p>{pais1}</p>
+        <p>data: {value2} - {pais2[0]} - {pais2[1]} - {pais2[2]}</p>
         <FormControl variant="outlined"  size="small">
             <InputLabel id="demo-simple-select-outlined-label" size="small">Año</InputLabel>
             <Select
