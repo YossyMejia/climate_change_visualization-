@@ -109,7 +109,8 @@ export default function MainPage() {
         <Container maxWidth="lg" className={classes.container}> 
             <Route exact path="/view/map" component={MapComponent}></Route> 
             <Route exact path="/view/top3" component={Top3Component}></Route> 
-            <Route exact path="/view/map" component={PrincipalLinear}></Route> 
+            <Route exact path="/view/lines" component={PrincipalLinear}></Route> 
+            <Route exact path="/view/radar" component={PrincipalRadar}></Route> 
         </Container>
       </main>
     </div>

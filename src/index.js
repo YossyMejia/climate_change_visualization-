@@ -9,7 +9,7 @@ import MainPage from "./components/mainpage/MainPage";
 import Welcome from "./components/mainpage/Welcome";
 
 const availablePath =
-  "/view/(|map|tree|top3|lines|loadpage)";
+  "/view/(|map|top3|lines|radar)";
 
 ReactDOM.render(
   <Provider store={generateStore()}>

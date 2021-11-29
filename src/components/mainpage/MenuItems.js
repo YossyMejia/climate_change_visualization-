@@ -43,7 +43,7 @@ const MenuItems = ({setView, selection}) => {
     </ListItem>
 
     <ListItem button 
-      onClick={() => {setView(["Radar","/tree"]); }}>
+      onClick={() => {setView(["Radar","/radar"]); }}>
       <ListItemIcon>
         {selection === radar ? <Radar className={classes.buttonClicked}/> 
         : <Radar />}
@@ -52,23 +52,13 @@ const MenuItems = ({setView, selection}) => {
     </ListItem>
 
     <ListItem button 
-      onClick={() => {setView(["Lineal","/tree"]); }}>
+      onClick={() => {setView(["Lineal","/lines"]); }}>
       <ListItemIcon>
-        {selection === radar ? <Linear className={classes.buttonClicked}/> 
+        {selection === linear ? <Linear className={classes.buttonClicked}/> 
         : <Linear />}
       </ListItemIcon>
       <ListItemText primary="Lineal" />
     </ListItem>
-
-    {/*
-    <ListItem button 
-    onClick={() => {setView(["Administración de GPS","/gps"]); }}>
-      <ListItemIcon>
-      {selection === gpsAdmin ? <GpsFixed className={classes.buttonClicked}/> 
-        : <GpsFixed />}
-      </ListItemIcon>
-      <ListItemText primary="GPS" />
-    </ListItem> */}
 
     </div> 
   )
