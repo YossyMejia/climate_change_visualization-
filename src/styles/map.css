@@ -11,8 +11,7 @@
   }
   
   .Map > div> p{
-    font-size: 17px;
-    font-weight: bold;
+    font-size: 19px;
   }
 
   .Map > div> svg > g> text {
@@ -21,5 +20,5 @@
 
   .Map > div> svg > g.Tooltip {
     transform-origin: 0 0;
-    transform: translate(0px, 0px);
+    transform: translate(-50px, -225px);
   }

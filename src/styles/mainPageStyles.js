@@ -8,7 +8,10 @@ const stylesMainPage = makeStyles((theme) => ({
     },
     toolbar: {
       paddingRight: 24, // keep right padding when drawer closed
-      backgroundColor: '#4EB532'
+      backgroundColor: '#76c893'
+    },
+    buttonClicked: {
+      color: '#76c893',
     },
     toolbarIcon: {
       display: 'flex',
@@ -80,9 +83,21 @@ const stylesMainPage = makeStyles((theme) => ({
     fixedHeight: {
       height: 240,
     },
-    buttonClicked: {
-      color: theme.palette.success.main,
+    welcome: {
+      width: "100%",
+      height: "100vh",
+      position: "relative",
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
     },
+    buttonWelcome: {
+      backgroundColor: '#4EB532',
+      color:'white',
+      "&:hover": {
+        background: '#4EB532',
+      },
+    }
   }));
 
   export default stylesMainPage;

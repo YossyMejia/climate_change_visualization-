@@ -1,6 +1,5 @@
 import { createTheme } from "@material-ui/core/styles";
 import { esES } from "@material-ui/core/locale";
-import { Snackbar } from "@material-ui/core";
 
 export const theme = createTheme({
     typography: {

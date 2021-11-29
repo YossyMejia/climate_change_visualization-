@@ -7,10 +7,12 @@ import stylesMainPage from "../../styles/mainPageStyles";
 // Imports de íconos
 import Language from '@material-ui/icons/Language';           // Mapa
 import Map from '@material-ui/icons/Map';                     // Arbol
+import AlignVerticalBottomIcon from '@mui/icons-material/AlignVerticalBottom'; //top 3
 
 //views name used to be compared with the actual selected view
-const userAdmin = "Mapa mundial";
-const extUserAdmin = "Arbol";
+const mundialMap = "Mapa mundial";
+const tree = "Arbol";
+const top3 = "Top 3 paises";
 
 // Componente que contiene todos los items del menú de opciones de administrador
 const MenuItems = ({setView, selection}) => {
@@ -21,30 +23,38 @@ const MenuItems = ({setView, selection}) => {
       <ListItem button 
       onClick={() => {setView(["Mapa mundial","/map"]); }}>
       <ListItemIcon>
-        {selection === userAdmin ? <Language className={classes.buttonClicked}/> 
+        {selection === mundialMap ? <Language className={classes.buttonClicked}/> 
         : <Language />}
       </ListItemIcon>
-      <ListItemText primary="Mapa mundial" />
+      <ListItemText primary="Mapa mundial"/>
+    </ListItem>
+
+    <ListItem button 
+      onClick={() => {setView(["Top 3 paises","/top3"]); }}>
+      <ListItemIcon>
+        {selection === top3 ? <AlignVerticalBottomIcon className={classes.buttonClicked}/> 
+        : <AlignVerticalBottomIcon />}
+      </ListItemIcon>
+      <ListItemText primary="Top 3 paises"/>
     </ListItem>
 
     <ListItem button 
       onClick={() => {setView(["Arbol","/tree"]); }}>
       <ListItemIcon>
-        {selection === extUserAdmin ? <Map className={classes.buttonClicked}/> 
+        {selection === tree ? <Map className={classes.buttonClicked}/> 
         : <Map />}
       </ListItemIcon>
-      <ListItemText primary="Arbol" />
+      <ListItemText primary="Arbol"/>
     </ListItem>
 
-    {/*
     <ListItem button 
-    onClick={() => {setView(["Administración de GPS","/gps"]); }}>
+      onClick={() => {setView(["Arbol","/loadpage"]); }}>
       <ListItemIcon>
-      {selection === gpsAdmin ? <GpsFixed className={classes.buttonClicked}/> 
-        : <GpsFixed />}
+        {selection === tree ? <Map className={classes.buttonClicked}/> 
+        : <Map />}
       </ListItemIcon>
-      <ListItemText primary="GPS" />
-    </ListItem> */}
+      <ListItemText primary="Arbol"/>
+    </ListItem>
 
     </div> 
   )

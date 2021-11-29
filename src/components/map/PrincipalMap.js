@@ -1,54 +1,33 @@
 import React from "react";
 import { useEffect } from "react";
-import SearchCountry from "./SearchCountry";
+import SearchMap from "./SearchMap";
 import WorldMap from "./WorldMap";
-//import AddUserButton from "./AddUserButton";
 import Grid from "@material-ui/core/Grid";
 import { useDispatch, useSelector } from "react-redux";
 import {
-  //getUsersAction,
+  getMapData,
 } from "../../redux/mapDuck";
 
 export default function PrincipalMap(){
 
   // Constantes
   const dispatch = useDispatch();
-  //const users = useSelector((store) => store.users.array); // Datos para la página actual
-  //const totalUsers = useSelector((store) => store.users.usersLength); // Total de usuarios
+  const search_year = useSelector((store) => store.mapInfo.search_year);
+  const search_category = useSelector((store) => store.mapInfo.search_category);
+  const search_country = useSelector((store) => store.mapInfo.search_country);
+  const map_data = useSelector((store) => store.mapInfo.map_data);
+  const available_categories = useSelector((store) => store.mapInfo.available_categories);
 
   const loadData = () => {
-    //dispatch(getUsersAction(status, page, rowsPerPage, rol)); // Load initial data  
-    //dispatch(getRolsAction());
+    dispatch(getMapData(search_year, search_category, search_country)); // Load filter and initial data  
   };
 
-  const getAllRoles = () => { 
-    //dispatch(getRolsAction());
-  };
-
-  const getAllStatus = () => { 
-    //dispatch(getStatusAction());
-  };
-
-  const getTotalUsers = () => {
-    //dispatch(getUsersLenght(status, "", rol, "")); // get total data lenght from query  
-  }; 
-
-  const disableUser = (userId, stateId) => {
-    //dispatch(changeUserStatusAction(userId, stateId));
-  };
 
   useEffect(() => {
-    getAllRoles();
-    getAllStatus();
     loadData();
    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  }, [search_category]);
 
-
-  useEffect(() => {
-    getTotalUsers();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [])
 
 
 
@@ -56,24 +35,12 @@ export default function PrincipalMap(){
     <div>
       <Grid container>
         <Grid item>
-            <SearchCountry/>
-          {//<SearchCountry rol={rol} status={status} rols={allRoles} allStatus = {allStatus}/>
-          }
-        </Grid>
-        <Grid item>
-          {//<SearchPerYear />
-          }
+           <SearchMap year={search_year} category={search_category} countryName={search_country} 
+           available_categories={available_categories} />
         </Grid>
       </Grid>
       <WorldMap
-        /*rows={users}
-        totalUsers={totalUsers}
-        page={page}
-        rowsPerPage={rowsPerPage}
-        disableUser={disableUser}
-        status={status}
-        rols={allRoles}
-        allStatus = {allStatus}*/
+        map_data={map_data}
       />
     </div>
   );

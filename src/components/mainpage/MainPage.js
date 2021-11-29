@@ -15,13 +15,17 @@ import MenuItems from "./MenuItems";
 import stylesMainPage from "../../styles/mainPageStyles";
 import { useState, useEffect} from "react";
 import { Route } from "react-router-dom";
-import MapComponent from '../map/PrincipalMap'
+import MapComponent from '../map/PrincipalMap';
+import Top3Component from '../top3/PrincipalTop3';
+import LoadPageComponent from '../loadpage/LoadPage';
 import {useHistory} from "react-router-dom";
+import {dataFile2} from '../../json_data/dataFile2';
 
 export default function MainPage() {
 
   const classes = stylesMainPage();
   const history = useHistory();
+  const data2 = dataFile2();
 
   const [open, setOpen] = useState(false);
 
@@ -39,10 +43,17 @@ export default function MainPage() {
     setSelection(currentSelection[0]);
     history.push("/view" + currentSelection[1]);
   };
+
+  const loadDataDucks = () => {
+    console.log(data2[1500]);
+    //CARGAR DATOS A MAPDUCK
+    //CARGAR DATOS A TOP3DUCK
+  }
                    
 
-   useEffect(() => {
-    history.push("/view" + "/map");
+  useEffect(() => {
+    loadDataDucks();
+    history.push("/view/map");
   }, []);
   
   
@@ -98,6 +109,8 @@ export default function MainPage() {
         <div className={classes.appBarSpacer} />
         <Container maxWidth="lg" className={classes.container}> 
             <Route exact path="/view/map" component={MapComponent}></Route> 
+            <Route exact path="/view/top3" component={Top3Component}></Route> 
+            <Route exact path="/view/loadpage" component={LoadPageComponent}></Route> 
         </Container>
       </main>
     </div>
