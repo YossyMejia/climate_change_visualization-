@@ -45,9 +45,7 @@ export default function MainPage() {
   };
 
   const loadDataDucks = () => {
-    console.log(data2[1500]);
-    //CARGAR DATOS A MAPDUCK
-    //CARGAR DATOS A TOP3DUCK
+    //load data
   }
                    
 
@@ -110,7 +108,6 @@ export default function MainPage() {
         <Container maxWidth="lg" className={classes.container}> 
             <Route exact path="/view/map" component={MapComponent}></Route> 
             <Route exact path="/view/top3" component={Top3Component}></Route> 
-            <Route exact path="/view/loadpage" component={LoadPageComponent}></Route> 
         </Container>
       </main>
     </div>

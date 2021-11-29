@@ -23096,163 +23096,163 @@ export const dataFile4 = () => {
             "Value": 105780000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1990,
             "Value": 3250480000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1991,
             "Value": 3154100000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1992,
             "Value": 2918340000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1993,
             "Value": 2661080000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1994,
             "Value": 2377930000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1995,
             "Value": 2297350000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1996,
             "Value": 2243330000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1997,
             "Value": 2122610000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1998,
             "Value": 2100409999.99999
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1999,
             "Value": 2137250000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2000,
             "Value": 2194340000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2001,
             "Value": 2220510000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2002,
             "Value": 2237950000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2003,
             "Value": 2315680000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2004,
             "Value": 2362620000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2005,
             "Value": 2372650000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2006,
             "Value": 2444120000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2007,
             "Value": 2455200000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2008,
             "Value": 2483180000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2009,
             "Value": 2339270000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2010,
             "Value": 2453640000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2011,
             "Value": 2544940000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2012,
             "Value": 2506690000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2013,
             "Value": 2473720000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2014,
             "Value": 2454840000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2015,
             "Value": 2435160000
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2016,
             "Value": 2427410000
@@ -29576,163 +29576,163 @@ export const dataFile4 = () => {
             "Value": 474310000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1990,
             "Value": 5960750000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1991,
             "Value": 5919110000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1992,
             "Value": 6000330000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1993,
             "Value": 6110490000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1994,
             "Value": 6197480000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1995,
             "Value": 6261840000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1996,
             "Value": 6426140000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1997,
             "Value": 6675570000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1998,
             "Value": 6709560000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1999,
             "Value": 6706070000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2000,
             "Value": 6859690000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2001,
             "Value": 6807880000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2002,
             "Value": 6647110000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2003,
             "Value": 6706430000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2004,
             "Value": 6787820000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2005,
             "Value": 6802200000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2006,
             "Value": 6707400000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2007,
             "Value": 6797690000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2008,
             "Value": 6619950000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2009,
             "Value": 6194500000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2010,
             "Value": 6442560000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2011,
             "Value": 6214910000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2012,
             "Value": 5968550000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2013,
             "Value": 6108540000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2014,
             "Value": 6129000000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2015,
             "Value": 5997220000
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2016,
             "Value": 5907280000

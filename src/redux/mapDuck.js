@@ -41,7 +41,7 @@ function getCountryCode(countryName){
   try{
     return getCode(countryName).toLowerCase();
   } catch(error){
-    //console.log("ERROR",countryName);
+    console.log("ERROR",countryName);
   }
 }
 
@@ -177,7 +177,7 @@ export const getMapData = (year, category, country) => async (dispatch, getState
   const {available_categories} = getState().mapInfo;
   data = getDataByCategory(category, available_categories);
   var new_data = getFullData(data);
-  //console.log("new ",new_data);
+  console.log(getData());
   try {
     dispatch({
       type: GET_MAP_DATA,
@@ -194,7 +194,6 @@ export const searchDataAction = () => async (dispatch, getState) => {
   const {available_categories, search_country, search_year, search_category} = getState().mapInfo;
   data = getDataByCategory(search_category, available_categories);
   var new_data = getFilterData(data, search_year, search_country);
-  console.log("new filter data",new_data);
   try {
     dispatch({
       type: GET_MAP_DATA,

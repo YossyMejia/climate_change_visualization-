@@ -38,24 +38,6 @@ const MenuItems = ({setView, selection}) => {
       <ListItemText primary="Top 3 paises"/>
     </ListItem>
 
-    <ListItem button 
-      onClick={() => {setView(["Arbol","/tree"]); }}>
-      <ListItemIcon>
-        {selection === tree ? <Map className={classes.buttonClicked}/> 
-        : <Map />}
-      </ListItemIcon>
-      <ListItemText primary="Arbol"/>
-    </ListItem>
-
-    <ListItem button 
-      onClick={() => {setView(["Arbol","/loadpage"]); }}>
-      <ListItemIcon>
-        {selection === tree ? <Map className={classes.buttonClicked}/> 
-        : <Map />}
-      </ListItemIcon>
-      <ListItemText primary="Arbol"/>
-    </ListItem>
-
     </div> 
   )
 }

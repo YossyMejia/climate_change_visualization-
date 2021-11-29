@@ -99073,1009 +99073,1009 @@ export const dataFile3 = () => {
             "Value": 3.8774
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1830,
             "Value": 0.0003
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1831,
             "Value": 0.0004
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1832,
             "Value": 0.0003
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1833,
             "Value": 0.0003
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1850,
             "Value": 0.0017
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1855,
             "Value": 0.0049
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1858,
             "Value": 0.0067
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1859,
             "Value": 0.007
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1860,
             "Value": 0.0092
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1861,
             "Value": 0.0116
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1862,
             "Value": 0.0103
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1863,
             "Value": 0.0107
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1864,
             "Value": 0.0119
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1865,
             "Value": 0.0113
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1866,
             "Value": 0.0353
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1867,
             "Value": 0.0402
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1868,
             "Value": 0.0331
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1869,
             "Value": 0.0445
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1870,
             "Value": 0.0479
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1871,
             "Value": 0.0641
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1872,
             "Value": 0.0653
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1873,
             "Value": 0.0607
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1874,
             "Value": 0.073
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1875,
             "Value": 0.0833
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1876,
             "Value": 0.1025
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1877,
             "Value": 0.1036
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1878,
             "Value": 0.1342
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1879,
             "Value": 0.1364
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1880,
             "Value": 0.1586
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1881,
             "Value": 0.1656
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1882,
             "Value": 0.1728
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1883,
             "Value": 0.1949
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1884,
             "Value": 0.1961
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1885,
             "Value": 0.2117
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1886,
             "Value": 0.2151
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1887,
             "Value": 0.2256
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1888,
             "Value": 0.2332
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1889,
             "Value": 0.2496
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1890,
             "Value": 0.2801
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1891,
             "Value": 0.3056
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1892,
             "Value": 0.3205
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1893,
             "Value": 0.3723
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1894,
             "Value": 0.3758
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1895,
             "Value": 0.4279
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1896,
             "Value": 0.4316
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1897,
             "Value": 0.4945
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1898,
             "Value": 0.5496
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1899,
             "Value": 0.6319
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1900,
             "Value": 0.7093
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1901,
             "Value": 0.7216
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1902,
             "Value": 0.6907
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1903,
             "Value": 0.6695
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1904,
             "Value": 0.7382
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1905,
             "Value": 0.6529
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1906,
             "Value": 0.738
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1907,
             "Value": 0.8192
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1908,
             "Value": 0.8168
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1909,
             "Value": 0.8544
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1910,
             "Value": 0.8303
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1911,
             "Value": 0.8534
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1912,
             "Value": 0.958
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1913,
             "Value": 1.0313
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1914,
             "Value": 0.9224
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1915,
             "Value": 0.839
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1916,
             "Value": 0.8861
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1917,
             "Value": 0.8081
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1918,
             "Value": 0.3193
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1919,
             "Value": 0.2703
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1920,
             "Value": 0.2442
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1921,
             "Value": 0.2624
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1922,
             "Value": 0.3171
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1923,
             "Value": 0.3471
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1924,
             "Value": 0.4097
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1925,
             "Value": 0.4007
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1926,
             "Value": 0.5752
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1927,
             "Value": 0.7086
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1928,
             "Value": 0.7798
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1929,
             "Value": 0.832
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1930,
             "Value": 1.1209
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1931,
             "Value": 1.3343
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1932,
             "Value": 1.4896
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1933,
             "Value": 1.6496
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1934,
             "Value": 1.9771
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1935,
             "Value": 2.2174
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1936,
             "Value": 2.5193
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1937,
             "Value": 2.5526
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1938,
             "Value": 2.6695
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1939,
             "Value": 2.6775
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1940,
             "Value": 3.1807
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1941,
             "Value": 2.7688
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1942,
             "Value": 1.4918
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1943,
             "Value": 1.5427
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1944,
             "Value": 2.2168
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1945,
             "Value": 2.3252
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1946,
             "Value": 2.5891
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1947,
             "Value": 3.0891
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1948,
             "Value": 3.2569
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1949,
             "Value": 3.6683
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1950,
             "Value": 4.0436
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1951,
             "Value": 4.319
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1952,
             "Value": 4.5524
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1953,
             "Value": 4.7374
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1954,
             "Value": 5.0885
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1955,
             "Value": 5.6756
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1956,
             "Value": 6.1238
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1957,
             "Value": 6.5987
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1958,
             "Value": 6.9399
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1959,
             "Value": 7.1941
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1960,
             "Value": 7.3901
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1961,
             "Value": 7.5247
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1962,
             "Value": 7.8038
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1963,
             "Value": 8.278
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1964,
             "Value": 8.7181
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1965,
             "Value": 9.1696
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1966,
             "Value": 9.6139
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1967,
             "Value": 9.9924
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1968,
             "Value": 10.2196
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1969,
             "Value": 10.5908
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1970,
             "Value": 11.0837
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1971,
             "Value": 11.7013
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1972,
             "Value": 12.2457
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1973,
             "Value": 12.6925
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1974,
             "Value": 13.1016
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1975,
             "Value": 13.6927
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1976,
             "Value": 14.1358
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1977,
             "Value": 14.5279
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1978,
             "Value": 14.9333
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1979,
             "Value": 14.9601
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1980,
             "Value": 15.4455
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1981,
             "Value": 15.0485
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1982,
             "Value": 15.2273
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1983,
             "Value": 15.3356
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1984,
             "Value": 15.3623
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1985,
             "Value": 16.4502
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1986,
             "Value": 16.373
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1987,
             "Value": 16.1888
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1988,
             "Value": 16.5096
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1989,
             "Value": 16.0464
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1990,
             "Value": 17.117
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1991,
             "Value": 16.1895
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1992,
             "Value": 13.2035
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1993,
             "Value": 12.5323
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1994,
             "Value": 11.0644
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1995,
             "Value": 10.8814
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1996,
             "Value": 10.6753
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1997,
             "Value": 9.9855
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1998,
             "Value": 9.8952
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 1999,
             "Value": 10.1152
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2000,
             "Value": 10.0478
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2001,
             "Value": 10.3373
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2002,
             "Value": 10.2984
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2003,
             "Value": 10.5482
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2004,
             "Value": 10.6223
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2005,
             "Value": 10.7702
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2006,
             "Value": 11.2014
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2007,
             "Value": 11.1982
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2008,
             "Value": 11.4255
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2009,
             "Value": 10.6663
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2010,
             "Value": 11.2412
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2011,
             "Value": 11.5861
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2012,
             "Value": 11.6662
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2013,
             "Value": 11.2189
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2014,
             "Value": 11.2145
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2015,
             "Value": 11.1933
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2016,
             "Value": 11.1396
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2017,
             "Value": 11.3116
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2018,
             "Value": 11.6058
         },
         {
-            "Entity": "Russia",
+            "Entity": "Russian Federation",
             "Code": "RUS",
             "Year": 2019,
             "Value": 11.5057
@@ -126651,1321 +126651,1321 @@ export const dataFile3 = () => {
             "Value": 5.4772
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1800,
             "Value": 0.0421
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1801,
             "Value": 0.0437
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1802,
             "Value": 0.0465
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1803,
             "Value": 0.0468
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1804,
             "Value": 0.0515
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1805,
             "Value": 0.0517
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1806,
             "Value": 0.0496
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1807,
             "Value": 0.0551
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1808,
             "Value": 0.0562
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1809,
             "Value": 0.0567
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1810,
             "Value": 0.0572
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1811,
             "Value": 0.0596
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1812,
             "Value": 0.0626
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1813,
             "Value": 0.0652
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1814,
             "Value": 0.068
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1815,
             "Value": 0.0706
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1816,
             "Value": 0.0755
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1817,
             "Value": 0.0791
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1818,
             "Value": 0.0833
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1819,
             "Value": 0.0788
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1820,
             "Value": 0.0794
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1821,
             "Value": 0.0806
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1822,
             "Value": 0.0818
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1823,
             "Value": 0.0829
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1824,
             "Value": 0.0907
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1825,
             "Value": 0.0987
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1826,
             "Value": 0.1111
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1827,
             "Value": 0.1189
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1828,
             "Value": 0.1273
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1829,
             "Value": 0.1394
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1830,
             "Value": 0.1577
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1831,
             "Value": 0.1663
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1832,
             "Value": 0.2159
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1833,
             "Value": 0.2451
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1834,
             "Value": 0.2286
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1835,
             "Value": 0.2838
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1836,
             "Value": 0.3026
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1837,
             "Value": 0.3301
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1838,
             "Value": 0.3045
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1839,
             "Value": 0.3247
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1840,
             "Value": 0.3359
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1841,
             "Value": 0.3452
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1842,
             "Value": 0.373
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1843,
             "Value": 0.4062
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1844,
             "Value": 0.4725
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1845,
             "Value": 0.552
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1846,
             "Value": 0.6076
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1847,
             "Value": 0.699
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1848,
             "Value": 0.7554
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1849,
             "Value": 0.7957
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1850,
             "Value": 0.8387
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1851,
             "Value": 1.0123
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1852,
             "Value": 1.0677
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1853,
             "Value": 1.1658
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1854,
             "Value": 1.243
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1855,
             "Value": 1.3873
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1856,
             "Value": 1.4116
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1857,
             "Value": 1.4038
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1858,
             "Value": 1.3811
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1859,
             "Value": 1.4596
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1860,
             "Value": 1.4858
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1861,
             "Value": 1.3932
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1862,
             "Value": 1.411
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1863,
             "Value": 1.5913
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1864,
             "Value": 1.6625
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1865,
             "Value": 1.6276
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1866,
             "Value": 1.6001
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1867,
             "Value": 1.9217
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1868,
             "Value": 2.1203
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1869,
             "Value": 2.3555
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1870,
             "Value": 2.4213
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1871,
             "Value": 2.4705
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1872,
             "Value": 2.9589
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1873,
             "Value": 3.1931
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1874,
             "Value": 3.0033
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1875,
             "Value": 2.9661
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1876,
             "Value": 2.8355
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1877,
             "Value": 3.0698
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1878,
             "Value": 2.9327
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1879,
             "Value": 3.4939
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1880,
             "Value": 3.8652
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1881,
             "Value": 3.9951
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1882,
             "Value": 4.3712
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1883,
             "Value": 4.6061
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1884,
             "Value": 4.7431
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1885,
             "Value": 4.7132
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1886,
             "Value": 4.8637
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1887,
             "Value": 5.081
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1888,
             "Value": 6.038
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1889,
             "Value": 5.2986
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1890,
             "Value": 6.2081
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1891,
             "Value": 6.4683
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1892,
             "Value": 6.6809
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1893,
             "Value": 6.6057
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1894,
             "Value": 6.0645
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1895,
             "Value": 6.7163
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1896,
             "Value": 6.6001
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1897,
             "Value": 6.7347
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1898,
             "Value": 7.2
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1899,
             "Value": 8.0994
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1900,
             "Value": 8.4318
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1901,
             "Value": 9.002
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1902,
             "Value": 9.355
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1903,
             "Value": 10.7281
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1904,
             "Value": 10.3516
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1905,
             "Value": 11.3536
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1906,
             "Value": 11.6899
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1907,
             "Value": 13.3197
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1908,
             "Value": 11.4245
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1909,
             "Value": 12.4168
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1910,
             "Value": 13.312
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1911,
             "Value": 12.9602
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1912,
             "Value": 13.6174
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1913,
             "Value": 14.4106
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1914,
             "Value": 12.9765
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1915,
             "Value": 13.2634
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1916,
             "Value": 14.5113
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1917,
             "Value": 15.7275
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1918,
             "Value": 16.2014
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1919,
             "Value": 13.5311
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1920,
             "Value": 15.6803
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1921,
             "Value": 12.674
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1922,
             "Value": 12.6032
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1923,
             "Value": 16.402
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1924,
             "Value": 14.4909
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1925,
             "Value": 14.6666
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1926,
             "Value": 15.6725
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1927,
             "Value": 15.0954
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1928,
             "Value": 14.6218
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1929,
             "Value": 15.4796
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1930,
             "Value": 13.601
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1931,
             "Value": 11.4605
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1932,
             "Value": 9.6273
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1933,
             "Value": 10.2514
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1934,
             "Value": 10.8393
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1935,
             "Value": 11.1817
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1936,
             "Value": 12.747
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1937,
             "Value": 13.2424
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1938,
             "Value": 11.1197
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1939,
             "Value": 12.1525
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1940,
             "Value": 13.5038
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1941,
             "Value": 14.5514
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1942,
             "Value": 15.4608
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1943,
             "Value": 15.7596
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1944,
             "Value": 16.7285
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1945,
             "Value": 15.9243
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1946,
             "Value": 15.0251
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1947,
             "Value": 16.3169
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1948,
             "Value": 16.7182
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1949,
             "Value": 13.8117
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1950,
             "Value": 15.9699
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1951,
             "Value": 16.241
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1952,
             "Value": 15.5904
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1953,
             "Value": 15.7077
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1954,
             "Value": 14.717
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1955,
             "Value": 15.8489
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1956,
             "Value": 16.3269
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1957,
             "Value": 15.9116
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1958,
             "Value": 15.1578
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1959,
             "Value": 15.3603
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1960,
             "Value": 15.466
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1961,
             "Value": 15.1784
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1962,
             "Value": 15.5163
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1963,
             "Value": 15.9851
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1964,
             "Value": 16.4773
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1965,
             "Value": 16.9636
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1966,
             "Value": 17.6288
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1967,
             "Value": 18.1128
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1968,
             "Value": 18.6015
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1969,
             "Value": 19.3659
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1970,
             "Value": 20.6455
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1971,
             "Value": 20.5848
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1972,
             "Value": 21.3741
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1973,
             "Value": 22.1325
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1974,
             "Value": 21.1545
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1975,
             "Value": 20.0875
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1976,
             "Value": 20.8388
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1977,
             "Value": 21.2219
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1978,
             "Value": 21.6805
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1979,
             "Value": 21.5275
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1980,
             "Value": 20.5543
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1981,
             "Value": 19.5581
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1982,
             "Value": 18.3985
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1983,
             "Value": 18.3702
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1984,
             "Value": 18.754
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1985,
             "Value": 18.6459
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1986,
             "Value": 18.4866
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1987,
             "Value": 19.1013
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1988,
             "Value": 19.75
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1989,
             "Value": 19.8138
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1990,
             "Value": 20.3407
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1991,
             "Value": 19.9533
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1992,
             "Value": 20.1669
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1993,
             "Value": 20.3575
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1994,
             "Value": 20.5041
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1995,
             "Value": 20.5115
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1996,
             "Value": 20.9697
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1997,
             "Value": 20.9916
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1998,
             "Value": 20.8996
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 1999,
             "Value": 20.931
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2000,
             "Value": 21.2916
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2001,
             "Value": 20.7318
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2002,
             "Value": 20.686
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2003,
             "Value": 20.6751
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2004,
             "Value": 20.8911
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2005,
             "Value": 20.7865
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2006,
             "Value": 20.322
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2007,
             "Value": 20.3868
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2008,
             "Value": 19.5414
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2009,
             "Value": 17.9265
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2010,
             "Value": 18.4396
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2011,
             "Value": 17.8613
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2012,
             "Value": 17.0918
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2013,
             "Value": 17.4274
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2014,
             "Value": 17.4527
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2015,
             "Value": 16.8676
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2016,
             "Value": 16.3839
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2017,
             "Value": 16.1607
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2018,
             "Value": 16.585
         },
         {
-            "Entity": "United States",
+            "Entity": "United States of America",
             "Code": "USA",
             "Year": 2019,
             "Value": 16.0597
